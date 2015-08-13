@@ -1,0 +1,18 @@
+﻿<Window x:Class="Invasion.GameWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowState="Normal"
+        WindowStartupLocation="CenterScreen"
+        Height="600"
+        Width="1000"
+        ResizeMode="NoResize"
+        Title="Invasion"
+        Icon="/Resources/Images/icon.ico">
+    <Window.Background>
+        <ImageBrush ImageSource="/Resources/Images/background.jpg"></ImageBrush>
+    </Window.Background>
+    <Canvas Name="GameCanvas"
+            Height="550"
+            Width="990">
+    </Canvas>
+</Window>

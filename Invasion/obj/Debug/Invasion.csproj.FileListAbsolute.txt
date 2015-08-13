@@ -1,0 +1,54 @@
+C:\Users\admin\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe.config
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\GameWindow.baml
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\GameWindow.g.cs
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion_Content.g.cs
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion_MarkupCompile.cache
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.g.resources
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.Properties.Resources.resources
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe
+C:\Users\admin\Desktop\Invasion\Invasion\bin\Debug\Invasion.pdb
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.exe
+C:\Users\admin\Desktop\Invasion\Invasion\obj\Debug\Invasion.pdb
+C:\Users\stella\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe.config
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion.exe
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion.pdb
+C:\Users\stella\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe
+C:\Users\stella\Desktop\Invasion\Invasion\bin\Debug\Invasion.pdb
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\GameWindow.baml
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\GameWindow.g.cs
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\App.g.cs
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion_Content.g.cs
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion_MarkupCompile.cache
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion.g.resources
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion.Properties.Resources.resources
+C:\Users\stella\Desktop\Invasion\Invasion\obj\Debug\Invasion.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe.config
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion.exe
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion.pdb
+C:\Users\Nikola\Desktop\Invasion\Invasion\bin\Debug\Invasion.exe
+C:\Users\Nikola\Desktop\Invasion\Invasion\bin\Debug\Invasion.pdb
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\GameWindow.baml
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\GameWindow.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion_Content.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion_MarkupCompile.cache
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion.g.resources
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Invasion\Invasion\obj\Debug\Invasion.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\bin\Debug\Invasion.exe.config
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.exe
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.pdb
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\bin\Debug\Invasion.exe
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\bin\Debug\Invasion.pdb
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\GameWindow.baml
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\GameWindow.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\App.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion_Content.g.cs
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion_MarkupCompile.cache
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.g.resources
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Invasion\Invasion 1.01\Invasion\Invasion\obj\Debug\Invasion.csproj.GenerateResource.Cache
